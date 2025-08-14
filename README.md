@@ -53,19 +53,6 @@ Projeto desenvolvido a partir de um conjunto de dados públicos (`TelecomX_Data.
 
 ---
 
-## 📈 Gráficos e Figuras (para inclusão em README / Notebook)
-
-Inclua os seguintes arquivos em `assets/` e referencie-os no README/GitHub (as imagens abaixo são sugestivas — gere no notebook):
-
-- `assets/churn_distribution.png` — Distribuição geral de Churn (contagens e %).  
-- `assets/churn_by_contract.png` — Taxa de churn por tipo de contrato (M2M, 1y, 2y) com n por barra.  
-- `assets/churn_by_internet.png` — Taxa de churn por tipo de internet (Fiber / DSL / None).  
-- `assets/churn_by_payment.png` — Taxa de churn por método de pagamento.  
-- `assets/tenure_distribution.png` — Densidade / quartis de tenure e taxa de churn por quartil.  
-- `assets/charges_scatter.png` — Scatter/jitter de `account_charges_daily` vs churn com linha tendência.
-
----
-
 ## 🛠 Como rodar o projeto
 
 ### 1) Clonar o repositório
